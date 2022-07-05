@@ -20,6 +20,7 @@
                 <Column>PASSWORD</Column>
                 <Column>NAME</Column>
                 <Column>SURNAME</Column>
+                <Column>NIF</Column>
             </ValidColumns>
             <Sentence>
                 <![CDATA[
