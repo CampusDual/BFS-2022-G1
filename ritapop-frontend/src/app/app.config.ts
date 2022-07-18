@@ -29,5 +29,10 @@ export const CONFIG: Config = {
 
   appMenuConfiguration: MENU_CONFIG,
 
-  applicationLocales: ['es', 'en']
+  applicationLocales: ['es', 'en'],
+
+  permissionsServiceType: 'OntimizeEEPermissions',
+  permissionsConfiguration: {
+    service: 'permission'
+  }
 };
